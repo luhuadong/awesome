@@ -685,6 +685,11 @@
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
+## Embedded Systems
+
+- [RT-Thread](https://github.com/luhuadong/awesome-rt-thread) - RT-Thread RTOS resources.
+- [Zephyr RTOS](https://github.com/golioth/awesome-zephyr-rtos) - Zephyr Project resources.
+
 ## Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
